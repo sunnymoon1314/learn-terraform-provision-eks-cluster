@@ -1,3 +1,6 @@
+# Local backup directories.
+Backup
+
 # Local .terraform directories
 **/.terraform/*
 

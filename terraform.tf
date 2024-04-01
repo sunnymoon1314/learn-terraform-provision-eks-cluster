@@ -3,11 +3,14 @@
 
 terraform {
 
+# 01.04.2024 Soon: Commented this segment because it gives error when running apply.
+  /*
   cloud {
     workspaces {
       name = "learn-terraform-eks"
     }
   }
+*/
 
   required_providers {
     aws = {
